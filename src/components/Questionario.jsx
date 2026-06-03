@@ -290,8 +290,7 @@ export default function Questionario() {
         <h2 className="conf-titulo">Candidatura enviada!</h2>
         <p className="conf-desc">
           Recebemos sua inscrição para a vaga de <strong>Auxiliar de Escrevente – Notas</strong>.<br /><br />
-          A equipe da <strong>Genthe Consultoria</strong> realizará a análise de perfil e entrará em contato em até <strong>3 dias úteis</strong>.<br /><br />
-          Fique atento ao seu e-mail e WhatsApp.
+          A equipe da <strong>Genthe Consultoria</strong> realizará a análise de perfil e entrará em contato
         </p>
       </div>
     </>
