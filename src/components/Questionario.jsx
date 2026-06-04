@@ -139,12 +139,12 @@ const ETAPAS = [
 ];
 
 const REQUISITOS = [
-  ['Tempo mínimo no cargo atual', '6 meses ou mais'],
+  ['Tempo mínimo no cargo atual', 'Acima de 90 dias'],
   ['Avaliação de desempenho', 'Conceito "Atende" ou superior na última avaliação formal'],
   ['Situação funcional', 'Sem advertência ativa nos últimos 6 meses'],
   ['Assiduidade', 'Ausências injustificadas: máximo 2 nos últimos 6 meses'],
-  ['Requisitos do cargo alvo', 'Atendimento à formação e experiência mínima descritas no perfil do cargo'],
-];
+  ['Requisitos do cargo alvo', 'Cursando ensino superior na área de Direito'],
+]
 
 // ── COMPONENTE PRINCIPAL ──────────────────────────────────────────────────────
 export default function Questionario() {
